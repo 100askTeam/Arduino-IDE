@@ -1,0 +1,54 @@
+{
+  "packages": [
+    {
+      "name": "100ask",
+      "maintainer": "100ask",
+      "websiteURL": "https://github.com/codebug8/Arduino-IDE",
+      "email": "livelwh@outlook.com",
+      "help": {
+        "online": "https://github.com/codebug8/Arduino-IDE/issues"
+      },
+      "platforms": [
+        {
+          "name": "100ask  modules Boards",
+          "architecture": "ARMV7",
+          "version": "1.1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/codebug8/Arduino-IDE/issues"
+          },          
+          "url": "https://github.com/codebug8/arduino-100ask/archive/1.1.0.tar.gz",
+          "archiveFileName": "arduino-100ask-1.1.0.tar.gz",
+          "checksum": "MD5:940d48f47626248d15e536b5fe327a57",
+          "size": "1064263",
+          "boards": [
+            {"name": "100ask_am335x"},
+            {"name": "firefly_rk3288"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "100ask",
+              "name": "gcc-arm-linux-gnueabihf",
+              "version": "6.2.1"
+            }
+          ]
+        }
+      ],
+      "tools":[
+        {
+          "name": "gcc-arm-linux-gnueabihf",
+          "version": "6.2.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://dev.tencent.com/u/codebug8/p/gcc-arm-linux-gnueabihf-6.2.1/git/archive/v1.2.1.zip",
+              "archiveFileName": "codebug8-gcc-arm-linux-gnueabihf-6.2.1-v1.2.1.zip",
+              "size": "544011442",
+              "checksum": "MD5:4a754bcb1d6b8565cbcf6b27fcc5b5e1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
