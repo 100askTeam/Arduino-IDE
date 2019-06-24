@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/codebug8/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/codebug8/arduino-100ask/archive/2.0.tar.gz",
-          "archiveFileName": "arduino-100ask-2.0.tar.gz",
-          "checksum": "MD5:8e6a65a1d47f3445afad7044a33d6e99",
-          "size": "1066066",
+          "url": "https://github.com/codebug8/arduino-100ask/archive/2.1.tar.gz",
+          "archiveFileName": "arduino-100ask-2.1.tar.gz",
+          "checksum": "MD5:b39a5f04470ae8d11e0c01f639ffeb17",
+          "size": "1066310",
           "boards": [
             {"name": "100ask_am335x"},
             {"name": "firefly_rk3288"}
