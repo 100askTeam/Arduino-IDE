@@ -3,10 +3,10 @@
     {
       "name": "100ask",
       "maintainer": "100ask",
-      "websiteURL": "https://github.com/codebug8/Arduino-IDE",
+      "websiteURL": "https://github.com/100askTeam/Arduino-IDE",
       "email": "livelwh@outlook.com",
       "help": {
-        "online": "https://github.com/codebug8/Arduino-IDE/issues"
+        "online": "https://github.com/100askTeam/Arduino-IDE/issues"
       },
       "platforms": [
         {
@@ -15,7 +15,7 @@
           "version": "2.1",
           "category": "Contributed",
           "help": {
-            "online": "https://github.com/codebug8/Arduino-IDE/issues"
+            "online": "https://github.com/100askTeam/Arduino-IDE/issues"
           },          
           "url": "https://github.com/100askTeam/arduino-100ask/archive/2.1.tar.gz",
           "archiveFileName": "arduino-100ask-2.1.tar.gz",
