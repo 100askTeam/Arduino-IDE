@@ -1,0 +1,53 @@
+{
+  "packages": [
+    {
+      "name": "100ask",
+      "maintainer": "100ask",
+      "websiteURL": "https://github.com/100askTeam/Arduino-IDE",
+      "email": "livelwh@outlook.com",
+      "help": {
+        "online": "https://github.com/100askTeam/Arduino-IDE/issues"
+      },
+      "platforms": [
+        {
+          "name": "100ask  modules Boards",
+          "architecture": "ARMV8",
+          "version": "1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/100askTeam/Arduino-IDE"
+          },          
+          "url": "https://github.com/100askTeam/arduino-100ask/archive/2.1.tar.gz",
+          "archiveFileName": "arduino-100ask-2.1.tar.gz",
+          "checksum": "MD5:b39a5f04470ae8d11e0c01f639ffeb17",
+          "size": "1066310",
+          "boards": [
+            {"name": "roc-rk3399-pc"} 
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "100ask",
+              "name": "gcc-aarch64-linux-gnu",
+              "version": "6.3.1"
+            }
+          ]
+        }
+      ],
+      "tools":[
+        {
+          "name": "gcc-aarch64-linux-gnu",
+          "version": "6.3.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://dev.tencent.com/u/weidongshan/p/gcc-aarch64-linux-gnu-6.3.1/git/archive/v1.0.zip",
+              "archiveFileName": "weidongshan-gcc-aarch64-linux-gnu-6.3.1-v1.0.zip",
+              "size": "615064824",
+              "checksum": "MD5:0e36626f9a850bcdb6eb5f110475d65c"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
