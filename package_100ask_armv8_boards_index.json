@@ -26,7 +26,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "100ask",
+              "packager": "100ask-armv8",
               "name": "gcc-aarch64-linux-gnu",
               "version": "6.3.1"
             }
