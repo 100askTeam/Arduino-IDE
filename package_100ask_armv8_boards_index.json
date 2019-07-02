@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "100ask",
-      "maintainer": "100ask",
+      "name": "100ask-armv8",
+      "maintainer": "100askTeam",
       "websiteURL": "https://github.com/100askTeam/Arduino-IDE",
       "email": "livelwh@outlook.com",
       "help": {
