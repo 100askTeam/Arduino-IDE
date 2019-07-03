@@ -12,15 +12,15 @@
         {
           "name": "100ask  modules Boards",
           "architecture": "ARMV7",
-          "version": "2.1",
+          "version": "0.1",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/100askTeam/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/100askTeam/arduino-100ask/archive/2.1.tar.gz",
-          "archiveFileName": "arduino-100ask-2.1.tar.gz",
-          "checksum": "MD5:b39a5f04470ae8d11e0c01f639ffeb17",
-          "size": "1066310",
+          "url": "https://github.com/100askTeam/arduino-rk3288/archive/v0.1.tar.gz",
+          "archiveFileName": "arduino-rk3288-0.1.tar.gz",
+          "checksum": "MD5:2b184247f545a0da4300b926bf13942f",
+          "size": "1070054",
           "boards": [
             {"name": "firefly_rk3288"}
           ],
