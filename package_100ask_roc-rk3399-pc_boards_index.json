@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "100ask-armv8",
+      "name": "100ask_roc-rk3399-pc",
       "maintainer": "100askTeam",
       "websiteURL": "https://github.com/100askTeam/Arduino-IDE",
       "email": "livelwh@outlook.com",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "100ask  modules Boards",
+          "name": "100ask roc-rk3399-pc modules Boards",
           "architecture": "ARMV8",
           "version": "1.0",
           "category": "Contributed",
@@ -26,7 +26,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "100ask-armv8",
+              "packager": "100ask_roc-rk3399-pc",
               "name": "gcc-aarch64-linux-gnu",
               "version": "6.3.1"
             }
