@@ -22,7 +22,7 @@
           "checksum": "MD5:87ece17330997bebc68369611102bcee",
           "size": "1070102",
           "boards": [
-            {"name": "100ask_am335x"},
+            {"name": "100ask-am335x"},
           ],
           "toolsDependencies": [
             {
