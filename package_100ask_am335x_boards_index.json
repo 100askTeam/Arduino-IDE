@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/100askTeam/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/100askTeam/arduino-am335x/archive/V0.1.tar.gz",
-          "archiveFileName": "arduino-am335x-0.1.tar.gz",
-          "checksum": "MD5:87ece17330997bebc68369611102bcee",
-          "size": "1070102",
+          "url": "https://github.com/100askTeam/arduino-am335x/archive/v1.0.tar.gz",
+          "archiveFileName": "arduino-am335x-1.0.tar.gz",
+          "checksum": "MD5:1cd5beaf94bc72fe2094fc7054667f81",
+          "size": "1070989",
           "boards": [
             {"name": "100ask-am335x"}
           ],
