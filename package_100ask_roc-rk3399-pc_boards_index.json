@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/100askTeam/Arduino-IDE"
           },          
-          "url": "https://github.com/100askTeam/arduino-100ask/archive/v1.0.tar.gz",
-          "archiveFileName": "arduino-100ask-1.0.tar.gz",
-          "checksum": "MD5:f65219876a1131367279d68e3fd783af",
-          "size": "1066300",
+          "url": "https://github.com/100askTeam/arduino-rk3399/archive/v1.0.tar.gz",
+          "archiveFileName": "arduino-rk3399-1.0.tar.gz",
+          "checksum": "MD5:90fc2f36f3de36bb844cf60ad09bb78e",
+          "size": "1070681",
           "boards": [
             {"name": "roc-rk3399-pc"} 
           ],
