@@ -17,10 +17,10 @@
           "help": {
             "online": "https://github.com/100askTeam/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/100askTeam/arduino-rk3288/archive/v1.0.tar.gz",
-          "archiveFileName": "arduino-rk3288-1.0.tar.gz",
-          "checksum": "MD5:cd02d564ad5c6afbfb448fe77e3dfaad",
-          "size": "1070495",
+          "url": "https://github.com/100askTeam/arduino-rk3288/archive/v1.1.tar.gz",
+          "archiveFileName": "arduino-rk3288-1.1.tar.gz",
+          "checksum": "MD5:733610549f63ee391b3ee3fac46e7690",
+          "size": "1070497",
           "boards": [
             {"name": "firefly_rk3288"}
           ],
