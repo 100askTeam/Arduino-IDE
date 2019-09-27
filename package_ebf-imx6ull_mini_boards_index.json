@@ -1,0 +1,53 @@
+{
+  "packages": [
+    {
+      "name": "ebf-imx6ull_mini",
+      "maintainer": "100ask",
+      "websiteURL": "https://github.com/100askTeam/Arduino-IDE",
+      "email": "livelwh@outlook.com",
+      "help": {
+        "online": "https://github.com/100askTeam/Arduino-IDE/issues"
+      },
+      "platforms": [
+        {
+          "name": "ebf-imx6ull_minimodules Boards",
+          "architecture": "ARMV7",
+          "version": "0.1",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/100askTeam/Arduino-IDE/issues"
+          },          
+          "url": "https://github.com/100askTeam/arduino-imx6ull/archive/v0.1.tar.gz",
+          "archiveFileName": "arduino-imx6ull-0.1.tar.gz",
+          "checksum": "MD5:396329d74baf19d0c47b02fc00c129c8",
+          "size": "30489",
+          "boards": [
+            {"name": "ebf_imx6ull_mini"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "ebf-imx6ull_mini",
+              "name": "gcc-arm-linux-gnueabihf",
+              "version": "6.2.1"
+            }
+          ]
+        }
+      ],
+      "tools":[
+        {
+          "name": "gcc-arm-linux-gnueabihf",
+          "version": "6.2.1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://dev.tencent.com/u/codebug8/p/gcc-arm-linux-gnueabihf-6.2.1/git/archive/v1.2.1.zip",
+              "archiveFileName": "codebug8-gcc-arm-linux-gnueabihf-6.2.1-v1.2.1.zip",
+              "size": "544011442",
+              "checksum": "MD5:4a754bcb1d6b8565cbcf6b27fcc5b5e1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
