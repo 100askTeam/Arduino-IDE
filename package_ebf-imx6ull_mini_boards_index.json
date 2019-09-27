@@ -10,17 +10,17 @@
       },
       "platforms": [
         {
-          "name": "ebf-imx6ull_minimodules Boards",
+          "name": "100ask ebf-imx6ull_mini modules Boards",
           "architecture": "ARMV7",
-          "version": "0.1",
+          "version": "0.2",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/100askTeam/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/100askTeam/arduino-imx6ull/archive/v0.1.tar.gz",
-          "archiveFileName": "arduino-imx6ull-0.1.tar.gz",
-          "checksum": "MD5:396329d74baf19d0c47b02fc00c129c8",
-          "size": "30489",
+          "url": "https://github.com/100askTeam/arduino-imx6ull/archive/v0.2.tar.gz",
+          "archiveFileName": "arduino-imx6ull-0.2.tar.gz",
+          "checksum": "MD5:3f17441b5d28084082182d60b74ace2f",
+          "size": "30491",
           "boards": [
             {"name": "ebf_imx6ull_mini"}
           ],
