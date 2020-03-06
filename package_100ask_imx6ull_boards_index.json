@@ -17,8 +17,8 @@
           "help": {
             "online": "https://github.com/100askTeam/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/100askTeam/arduino-imx6ull/archive/v0.2.tar.gz",
-          "archiveFileName": "arduino-imx6ull-0.2.tar.gz",
+          "url": "https://github.com/100askTeam/arduino-imx6ull/archive/v0.4.tar.gz",
+          "archiveFileName": "arduino-imx6ull-0.4.tar.gz",
           "checksum": "MD5:48F8A370B5E216E0A58BD30461047893",
           "size": "30445",
           "boards": [
