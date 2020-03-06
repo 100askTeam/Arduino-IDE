@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ebf-imx6ull_mini",
+      "name": "100ask_imx6ull",
       "maintainer": "100ask",
       "websiteURL": "https://github.com/100askTeam/Arduino-IDE",
       "email": "livelwh@outlook.com",
@@ -10,23 +10,23 @@
       },
       "platforms": [
         {
-          "name": "100ask ebf-imx6ull_mini modules Boards",
+          "name": "100ask_imx6ull modules Boards",
           "architecture": "ARMV7",
           "version": "0.2",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/100askTeam/Arduino-IDE/issues"
           },          
-          "url": "https://github.com/100askTeam/arduino-imx6ull/archive/v0.2.tar.gz",
-          "archiveFileName": "arduino-imx6ull-0.2.tar.gz",
+          "url": "https://github.com/100askTeam/arduino-imx6ull/archive/v0.3.tar.gz",
+          "archiveFileName": "arduino-imx6ull-0.3.tar.gz",
           "checksum": "MD5:3f17441b5d28084082182d60b74ace2f",
           "size": "30491",
           "boards": [
-            {"name": "ebf_imx6ull_mini"}
+            {"name": "100ask_imx6ull"}
           ],
           "toolsDependencies": [
             {
-              "packager": "ebf-imx6ull_mini",
+              "packager": "100ask_imx6ull",
               "name": "gcc-arm-linux-gnueabihf",
               "version": "6.2.1"
             }
