@@ -41,9 +41,9 @@
             {
               "host": "i686-mingw32",
               "url": "https://codeload.github.com/100askTeam/gcc-arm-linux-gnueabihf-6.2.1/zip/v1.0",
-              "archiveFileName": "gcc-arm-linux-gnueabihf-6.2.1-1.0.zip",
-              "size": "274538269",
-              "checksum": "MD5:9211007F25786522710E30DDA9917B3B"
+              "archiveFileName": "codebug8-gcc-arm-linux-gnueabihf-6.2.1-v1.2.1.zip",
+              "size": "544011442",
+              "checksum": "MD5:4A754BCB1D6B8565CBCF6B27FCC5B5E1"
             }
           ]
         }
