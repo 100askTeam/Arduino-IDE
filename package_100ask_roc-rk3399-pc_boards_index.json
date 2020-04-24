@@ -40,8 +40,8 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://dev.tencent.com/u/weidongshan/p/gcc-aarch64-linux-gnu-6.3.1/git/archive/v1.0.zip",
-              "archiveFileName": "weidongshan-gcc-aarch64-linux-gnu-6.3.1-v1.0.zip",
+              "url": "http://photos.100ask.net/arduino/Toolchain/6.3.1/gcc-aarch64-linux-gnu-6.3.1.zip",
+              "archiveFileName": "gcc-aarch64-linux-gnu-6.3.1.zip",
               "size": "615064824",
               "checksum": "MD5:0e36626f9a850bcdb6eb5f110475d65c"
             }
