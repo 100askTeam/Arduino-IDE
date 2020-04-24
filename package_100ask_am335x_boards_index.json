@@ -40,10 +40,10 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "https://codeload.github.com/100askTeam/ToolChain-6.2.1/zip/v1.0",
-              "archiveFileName": "ToolChain-6.2.1-1.0.zip",
-              "size": "172041895",
-              "checksum": "MD5:A98D5EB10CD34A48E74483D887845A42"
+              "url": "https://codeload.github.com/100askTeam/gcc-arm-linux-gnueabihf-6.2.1/zip/v1.0",
+              "archiveFileName": "gcc-arm-linux-gnueabihf-6.2.1-1.0.zip",
+              "size": "274538269",
+              "checksum": "MD5:9211007F25786522710E30DDA9917B3B"
             }
           ]
         }
